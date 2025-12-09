@@ -1,0 +1,14 @@
+# Node modules folder (do not track installed packages)
+node_modules/
+
+# Compiled JavaScript output
+*.js
+*.js.map
+
+# Optional: log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VS Code workspace settings (optional)
+.vscode/
